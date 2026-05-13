@@ -118,7 +118,7 @@ La plantilla permite crear fácilmente un sitio web tipo Netflix o plataforma OT
 # 📂 Estructura del proyecto
 
 ```bash
-yourmovies/
+HostingStreamingPeliculas/
 │
 ├── assets/
 ├── admin/
@@ -138,7 +138,7 @@ yourmovies/
 Clonar o descargar el proyecto desde GitHub.
 
 ```bash
-git clone https://github.com/your-user/yourmovies.git
+git clone https://github.com/isairey/HostingStreamingPeliculas.git
 ```
 
 ---
@@ -282,7 +282,7 @@ git push origin feature/new-feature
 ## ✉️ Contacto
 
 ```txt
-Email: aymanhun@gmail.com
+Email: Developer.SR.IRP@gmail.com
 ```
 
 ---
@@ -291,7 +291,7 @@ Email: aymanhun@gmail.com
 
 <div align="center">
 
-## YourMovies Developers
+## Isai Reyes Developer
 
 Desarrolladores enfocados en plataformas multimedia modernas y experiencias OTT.
 
