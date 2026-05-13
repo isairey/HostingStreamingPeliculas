@@ -173,15 +173,7 @@ y seguir el procedimiento de instalación.
 http://skyfall2020.000webhostapp.com/
 ```
 
----
 
-# 📖 Documentación
-
-## 📚 Full Documentation
-
-```txt
-https://docs.google.com/document/d/1-r3C8n5mZMC6HTZaX1XmTeq_H5YqDM3VMRlH_hVe-gI/edit
-```
 
 ---
 
